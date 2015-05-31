@@ -1,0 +1,8 @@
+{
+	"name": "webapp"
+	,"version": "0.0.1"
+  	,"main": "all-in-one.js"
+	,"dependencies": {
+		"zepto": "^1.1.6"
+	}
+}

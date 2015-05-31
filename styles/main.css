@@ -1,0 +1,26 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+		html,body{
+			height:100%;
+		}
+		
+		.page{
+      font-size: 72px;
+      line-height: 100%;
+      text-align: center;
+    
+    }
+    .page1{
+        background: red;
+    }
+    .page2{
+        background: yellow;
+    }
+    .page3{
+        background: maroon;
+    }
+    .page4{
+        background: green;
+    }

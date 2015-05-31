@@ -1,0 +1,41 @@
+{
+  "name": "react-fullpage",
+  "version": "0.0.1",
+  "description": "fullPage for ReactJS project with hot code reloading",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liugenpeng/react-fullpage.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "fullage",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack"
+  ],
+  "author": "liugenpeng(https://github.com/liugenpeng)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liugenpeng/react-fullpage/issues"
+  },
+  "homepage": "https://github.com/liugenpeng/react-fullpage",
+  "devDependencies": {
+    "babel-core": "^5.4.3",
+    "babel-loader": "^5.1.2",
+    "core-js": "^0.9.11",
+    "react-hot-loader": "^1.2.7",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2",
+    "classnames": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
